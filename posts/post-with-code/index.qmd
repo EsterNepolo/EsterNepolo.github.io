@@ -1,0 +1,10 @@
+---
+title: "Some of my Analyses"
+author: "Ester Nepolo"
+date: "2024-04-24"
+categories: [code, analysis, r]
+image: "image.jpg"
+---
+
+This was one of my course work projects and it can be accessed [here](https://esternepolo.github.io/owid_life_satisfaction/){target="-blank"}
+

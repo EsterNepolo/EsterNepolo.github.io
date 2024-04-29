@@ -1,0 +1,15 @@
+---
+title: "Ester Nepolo" 
+image: ester_nepolo_portifolio.jpg
+about:
+  template: jolla
+  links:    
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ester-nepolo-032a94a6/
+    - icon: github
+      text: Github
+      href: https://github.com/EsterNepolo
+---
+
+Ester Ndahekelekwa Nepolo is a public health professional with a nursing background, currently pursuing a Doctor of Philosophy in Public Health. Her academic and professional journey has been marked by a strong focus on health systems and policy research, monitoring, and evaluation. Nepolo has held several advisory and coordination roles in Namibia's health sector, notably with the Global Fund Programme Management Unit and the Ministry of Health and Social Services. She has extensive experience in health data analysis, strategic planning, and research management. Her work has contributed to the development and implementation of various health policies and surveys, including the Demographic and Health Surveys and the National Strategic Plans, mostly for the communicable diseases such as HIV, TB and Malaria.  
